@@ -1,0 +1,11 @@
+D:\Study\AWSSamplePractice\MadhuApp\bin\Debug\netcoreapp3.1\MadhuApp.exe
+D:\Study\AWSSamplePractice\MadhuApp\bin\Debug\netcoreapp3.1\MadhuApp.deps.json
+D:\Study\AWSSamplePractice\MadhuApp\bin\Debug\netcoreapp3.1\MadhuApp.runtimeconfig.json
+D:\Study\AWSSamplePractice\MadhuApp\bin\Debug\netcoreapp3.1\MadhuApp.runtimeconfig.dev.json
+D:\Study\AWSSamplePractice\MadhuApp\bin\Debug\netcoreapp3.1\MadhuApp.dll
+D:\Study\AWSSamplePractice\MadhuApp\bin\Debug\netcoreapp3.1\MadhuApp.pdb
+D:\Study\AWSSamplePractice\MadhuApp\obj\Debug\netcoreapp3.1\MadhuApp.csprojAssemblyReference.cache
+D:\Study\AWSSamplePractice\MadhuApp\obj\Debug\netcoreapp3.1\MadhuApp.AssemblyInfoInputs.cache
+D:\Study\AWSSamplePractice\MadhuApp\obj\Debug\netcoreapp3.1\MadhuApp.AssemblyInfo.cs
+D:\Study\AWSSamplePractice\MadhuApp\obj\Debug\netcoreapp3.1\MadhuApp.dll
+D:\Study\AWSSamplePractice\MadhuApp\obj\Debug\netcoreapp3.1\MadhuApp.pdb
